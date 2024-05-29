@@ -32,3 +32,4 @@
 
 # 演示視頻
 ![avatar](https://github.com/1h8g9s5/2402-MAIE03-COMPUTER-GRAPHICS-AND-VISUALIZATION-IN-TECHNOLOGY/blob/main/demo.gif)
+演示文件內容：1）開始菜單-開始新遊戲；2）開始新遊戲-重新開始-主菜單；3）開始新遊戲-得分-到達特定分數後速度加快； 4）得分界面-返回主菜單-退出遊戲。all button function :D
