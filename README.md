@@ -29,3 +29,6 @@
 * `ball.py`: the implementation of the ball 小球的速度控制和繪製
 * `brick.py`: the implementation of the bricks 磚塊的顏色和尺寸等
 * `button.py`: the implementation of the buttons 界面按鈕元素
+
+# 演示視頻
+![avatar](https://github.com/1h8g9s5/2402-MAIE03-COMPUTER-GRAPHICS-AND-VISUALIZATION-IN-TECHNOLOGY/blob/main/demo.gif)
